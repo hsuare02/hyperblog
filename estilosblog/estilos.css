@@ -4,3 +4,33 @@ body
     text-align: center;
     font-family: "Courier";
 }
+    color: rgb(36, 35, 35);
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    /* aqui solo subi algo y ya*/ 
+}
+
+#cabecera
+{
+    background-color: dodgerblue;
+    color: rgb(224, 234, 243);
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+  
+}
+
+#container h1
+{
+font-size: 20px;
+}
+
